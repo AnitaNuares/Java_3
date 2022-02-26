@@ -5,6 +5,3 @@ public class BonusMilesService {
         return bonus;
     }
 }
-
-
-
